@@ -1,0 +1,14 @@
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\bin\Debug\netcoreapp3.1\CA_Nobeldij.exe
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\bin\Debug\netcoreapp3.1\CA_Nobeldij.deps.json
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\bin\Debug\netcoreapp3.1\CA_Nobeldij.runtimeconfig.json
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\bin\Debug\netcoreapp3.1\CA_Nobeldij.runtimeconfig.dev.json
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\bin\Debug\netcoreapp3.1\CA_Nobeldij.dll
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\bin\Debug\netcoreapp3.1\CA_Nobeldij.pdb
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\obj\Debug\netcoreapp3.1\CA_Nobeldij.csproj.AssemblyReference.cache
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\obj\Debug\netcoreapp3.1\CA_Nobeldij.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\obj\Debug\netcoreapp3.1\CA_Nobeldij.AssemblyInfoInputs.cache
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\obj\Debug\netcoreapp3.1\CA_Nobeldij.AssemblyInfo.cs
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\obj\Debug\netcoreapp3.1\CA_Nobeldij.csproj.CoreCompileInputs.cache
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\obj\Debug\netcoreapp3.1\CA_Nobeldij.dll
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\obj\Debug\netcoreapp3.1\CA_Nobeldij.pdb
+C:\Users\BOSS\source\repos\CA_Nobeldij\CA_Nobeldij\obj\Debug\netcoreapp3.1\CA_Nobeldij.genruntimeconfig.cache
